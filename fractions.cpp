@@ -9,7 +9,7 @@
 #include <iostream>
 #include <string>
 #include <cstdint>
-#include <numeric> // для std::gcd
+#include <numeric> 
 #include <stdexcept>
 #include <cmath>
 #include <limits>
@@ -194,6 +194,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
